@@ -1,7 +1,7 @@
 127.0.0.1  localhost
 #UPDATE:2013-05-25 11:50
 
-#SmartHosts START
+#DumbHosts START
 
 #Google Services START
 
@@ -761,4 +761,4 @@
 0.0.0.0	www.torproject.org
 #Others END
 
-#SmartHosts END
+#DumbHosts END
